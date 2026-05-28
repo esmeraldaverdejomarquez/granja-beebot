@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026052822555471GZ8B</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260528225554MCP9V9</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>La Granja Saludable del Bee-Bot</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María Esmeralda Verdejo Márquez.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje inclusiva para Infantil (3 años) que integra el pensamiento computacional con la robótica educativa (Bee-Bot) y el fomento de hábitos saludables y salud digital.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779920012363</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>d269c2bc-d5d1-466c-902d-f6882ec53491</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Bienvenidos a la Granja</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Bienvenidos a la Granja</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Bienvenidos a la Granja</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>d269c2bc-d5d1-466c-902d-f6882ec53491</odePageId>
+      <odeBlockId>block-1779830289611-4kblg01y6</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>d269c2bc-d5d1-466c-902d-f6882ec53491</odePageId>
+          <odeBlockId>block-1779830289611-4kblg01y6</odeBlockId>
+          <odeIdeviceId>idevice-1779830289608-mwdeyiyau</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 class="code-line has-line-data" data-line-start="0" data-line-end="1">1. Bienvenidos a la Granja: Presentación de la SdA</h1>
+<h2 class="code-line has-line-data" data-line-start="2" data-line-end="3">Descripción General del Proyecto</h2>
+<p class="has-line-data" data-line-start="3" data-line-end="4">Este recurso digital interactivo es la base de la Situación de Aprendizaje (SdA) <strong>“La Granja Saludable del Bee-Bot”</strong>, diseñada específicamente para el aula de Infantil 3 años.</p>
+<p class="has-line-data" data-line-start="5" data-line-end="6">A través de un enfoque lúdico y motivador, el alumnado se convertirá en “exploradores de la granja”, guiando a nuestro robot físico Bee-Bot a través de un tapete interactivo para buscar animales y alimentos saludables. A lo largo de 2 semanas (6 sesiones), trabajaremos el pensamiento computacional inicial junto con hábitos fundamentales de salud digital y colaboración.</p>
+<ul>
+<li class="has-line-data" data-line-start="7" data-line-end="8"><strong>Temática central:</strong> La granja, los animales y el bienestar digital (descansos visuales).</li>
+<li class="has-line-data" data-line-start="8" data-line-end="9"><strong>Nivel:</strong> Infantil 3 años.</li>
+<li class="has-line-data" data-line-start="9" data-line-end="10"><strong>Temporalización:</strong> 2 semanas (6 sesiones organizadas de forma visual).</li>
+<li class="has-line-data" data-line-start="10" data-line-end="12"><strong>Áreas del currículo implicadas:</strong> 1. Crecimiento en Armonía (hábitos saludables y control motriz).<br />2. Comunicación y Representación de la Realidad (lenguaje de programación y expresión visual).</li>
+<li class="has-line-data" data-line-start="12" data-line-end="14"><strong>Idioma:</strong> Español (adaptado con soporte visual constante).</li>
+</ul>
+<hr />
+<h2 class="code-line has-line-data" data-line-start="16" data-line-end="17">Justificación Inclusiva y Aplicación del DUA</h2>
+<p class="has-line-data" data-line-start="18" data-line-end="19">Este proyecto no es una actividad aislada; está estructurado siguiendo los principios del Diseño Universal para el Aprendizaje (DUA) para eliminar por completo las barreras de aprendizaje detectadas en nuestra aula, garantizando la participación de alumnos clave como Leo y Amira.</p>
+<h3 class="code-line has-line-data" data-line-start="20" data-line-end="21">1. Eliminación de barreras para Leo (Alumno con NEAE)</h3>
+<p class="has-line-data" data-line-start="21" data-line-end="22">Para Leo, el uso de las tecnologías tradicionales (como pulsar botones pequeños en una pantalla táctil o seguir instrucciones complejas en texto) supone una barrera motriz y cognitiva.</p>
+<ul>
+<li class="has-line-data" data-line-start="22" data-line-end="23"><strong>La solución táctil:</strong> Al sustituir la pantalla por el robot físico Bee-Bot, Leo interactúa con botones grandes y robustos que puede tocar y presionar físicamente.</li>
+<li class="has-line-data" data-line-start="23" data-line-end="25"><strong>Respuesta sensorial:</strong> El robot emite un sonido (“bip”) y parpadea cada vez que se pulsa un botón, lo que le da a Leo una respuesta sensorial inmediata. El tapete de suelo tiene imágenes muy grandes, lo que reduce la fatiga visual y le permite orientarse en el espacio gateando o caminando sobre el propio juego.</li>
+</ul>
+<h3 class="code-line has-line-data" data-line-start="25" data-line-end="26">2. Eliminación de barreras para Amira (Barrera Lingüística)</h3>
+<p class="has-line-data" data-line-start="26" data-line-end="27">Amira se encuentra con una barrera lingüística severa al no dominar todavía el español, lo que suele aislarla en actividades basadas en el lenguaje oral.</p>
+<ul>
+<li class="has-line-data" data-line-start="27" data-line-end="28"><strong>El lenguaje universal de los iconos:</strong> La programación con Bee-Bot se basa en flechas (adelante, atrás, girar). Las flechas y los animales no tienen idioma: son un código visual universal.</li>
+<li class="has-line-data" data-line-start="28" data-line-end="30"><strong>Inclusión social:</strong> Amira puede programar exactamente igual que sus compañeros sin necesidad de hablar fluidamente. Los iconos de soporte que hemos diseñado para las normas y la evaluación (como la manzana para el descanso de salud digital o las manos chocando para el trabajo en equipo) le permiten comprender las dinámicas al instante mediante el impacto visual, favoreciendo que colabore activamente con su pareja de equipo.</li>
+</ul>
+<p class="has-line-data" data-line-start="30" data-line-end="31">En definitiva, el enfoque táctil del robot y el soporte visual de las pantallas interactivos transforman el aprendizaje en una experiencia accesible para todo el grupo, convirtiendo la diversidad del aula en una oportunidad de aprendizaje cooperativo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779830289608-mwdeyiyau","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 class=\"code-line has-line-data\" data-line-start=\"0\" data-line-end=\"1\">1. Bienvenidos a la Granja: Presentación de la SdA</h1>\n<h2 class=\"code-line has-line-data\" data-line-start=\"2\" data-line-end=\"3\">Descripción General del Proyecto</h2>\n<p class=\"has-line-data\" data-line-start=\"3\" data-line-end=\"4\">Este recurso digital interactivo es la base de la Situación de Aprendizaje (SdA) <strong>“La Granja Saludable del Bee-Bot”</strong>, diseñada específicamente para el aula de Infantil 3 años.</p>\n<p class=\"has-line-data\" data-line-start=\"5\" data-line-end=\"6\">A través de un enfoque lúdico y motivador, el alumnado se convertirá en “exploradores de la granja”, guiando a nuestro robot físico Bee-Bot a través de un tapete interactivo para buscar animales y alimentos saludables. A lo largo de 2 semanas (6 sesiones), trabajaremos el pensamiento computacional inicial junto con hábitos fundamentales de salud digital y colaboración.</p>\n<ul>\n<li class=\"has-line-data\" data-line-start=\"7\" data-line-end=\"8\"><strong>Temática central:</strong> La granja, los animales y el bienestar digital (descansos visuales).</li>\n<li class=\"has-line-data\" data-line-start=\"8\" data-line-end=\"9\"><strong>Nivel:</strong> Infantil 3 años.</li>\n<li class=\"has-line-data\" data-line-start=\"9\" data-line-end=\"10\"><strong>Temporalización:</strong> 2 semanas (6 sesiones organizadas de forma visual).</li>\n<li class=\"has-line-data\" data-line-start=\"10\" data-line-end=\"12\"><strong>Áreas del currículo implicadas:</strong> 1. Crecimiento en Armonía (hábitos saludables y control motriz).<br />2. Comunicación y Representación de la Realidad (lenguaje de programación y expresión visual).</li>\n<li class=\"has-line-data\" data-line-start=\"12\" data-line-end=\"14\"><strong>Idioma:</strong> Español (adaptado con soporte visual constante).</li>\n</ul>\n<hr />\n<h2 class=\"code-line has-line-data\" data-line-start=\"16\" data-line-end=\"17\">Justificación Inclusiva y Aplicación del DUA</h2>\n<p class=\"has-line-data\" data-line-start=\"18\" data-line-end=\"19\">Este proyecto no es una actividad aislada; está estructurado siguiendo los principios del Diseño Universal para el Aprendizaje (DUA) para eliminar por completo las barreras de aprendizaje detectadas en nuestra aula, garantizando la participación de alumnos clave como Leo y Amira.</p>\n<h3 class=\"code-line has-line-data\" data-line-start=\"20\" data-line-end=\"21\">1. Eliminación de barreras para Leo (Alumno con NEAE)</h3>\n<p class=\"has-line-data\" data-line-start=\"21\" data-line-end=\"22\">Para Leo, el uso de las tecnologías tradicionales (como pulsar botones pequeños en una pantalla táctil o seguir instrucciones complejas en texto) supone una barrera motriz y cognitiva.</p>\n<ul>\n<li class=\"has-line-data\" data-line-start=\"22\" data-line-end=\"23\"><strong>La solución táctil:</strong> Al sustituir la pantalla por el robot físico Bee-Bot, Leo interactúa con botones grandes y robustos que puede tocar y presionar físicamente.</li>\n<li class=\"has-line-data\" data-line-start=\"23\" data-line-end=\"25\"><strong>Respuesta sensorial:</strong> El robot emite un sonido (“bip”) y parpadea cada vez que se pulsa un botón, lo que le da a Leo una respuesta sensorial inmediata. El tapete de suelo tiene imágenes muy grandes, lo que reduce la fatiga visual y le permite orientarse en el espacio gateando o caminando sobre el propio juego.</li>\n</ul>\n<h3 class=\"code-line has-line-data\" data-line-start=\"25\" data-line-end=\"26\">2. Eliminación de barreras para Amira (Barrera Lingüística)</h3>\n<p class=\"has-line-data\" data-line-start=\"26\" data-line-end=\"27\">Amira se encuentra con una barrera lingüística severa al no dominar todavía el español, lo que suele aislarla en actividades basadas en el lenguaje oral.</p>\n<ul>\n<li class=\"has-line-data\" data-line-start=\"27\" data-line-end=\"28\"><strong>El lenguaje universal de los iconos:</strong> La programación con Bee-Bot se basa en flechas (adelante, atrás, girar). Las flechas y los animales no tienen idioma: son un código visual universal.</li>\n<li class=\"has-line-data\" data-line-start=\"28\" data-line-end=\"30\"><strong>Inclusión social:</strong> Amira puede programar exactamente igual que sus compañeros sin necesidad de hablar fluidamente. Los iconos de soporte que hemos diseñado para las normas y la evaluación (como la manzana para el descanso de salud digital o las manos chocando para el trabajo en equipo) le permiten comprender las dinámicas al instante mediante el impacto visual, favoreciendo que colabore activamente con su pareja de equipo.</li>\n</ul>\n<p class=\"has-line-data\" data-line-start=\"30\" data-line-end=\"31\">En definitiva, el enfoque táctil del robot y el soporte visual de las pantallas interactivos transforman el aprendizaje en una experiencia accesible para todo el grupo, convirtiendo la diversidad del aula en una oportunidad de aprendizaje cooperativo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779913861349-kn37mbsab</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Guía didáctica</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779913861349-kn37mbsab</odePageId>
+      <odeBlockId>block-1779914222105-kluual6g8</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779913861349-kn37mbsab</odePageId>
+          <odeBlockId>block-1779914222105-kluual6g8</odeBlockId>
+          <odeIdeviceId>idevice-1779914222103-v0taercuw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="stackedit__html">
+<h1 id="guía-didáctica-del-proyecto">2. Guía didáctica del Proyecto</h1>
+<p>Esta sección está destinada al profesorado que desee replicar o adaptar esta Situación de Aprendizaje (SdA) en su aula de Infantil. A continuación, se detalla la propuesta curricular oficial y las orientaciones pedagógicas necesarias para su correcta implementación.</p>
+<hr />
+<h2 id="🎯-relación-curricular-infantil-3-años">🎯 Relación Curricular (Infantil 3 años)</h2>
+<p>El proyecto se enmarca principalmente en dos áreas clave del currículo, vinculando las tareas digitales y analógicas con sus correspondientes criterios de evaluación:</p>
+<h3 id="área-1-crecimiento-en-armonía">Área 1: Crecimiento en Armonía</h3>
+<ul>
+<li><strong>Competencia específica:</strong> Desarrollar de manera progresiva el control de su cuerpo, adquiriendo hábitos saludables de bienestar y autonomía.</li>
+<li><strong>Criterio de Evaluación asociado:</strong> Reconocer e imitar hábitos saludables relacionados con el bienestar físico y el descanso en entornos digitales.</li>
+<li><strong>Relación con las tareas:</strong> Se aplica directamente en las rutinas de <strong>“Salud Digital”</strong>, donde los niños detienen el uso de la tablet o el robot para realizar estiramientos y parpadeos guiados tras periodos de trabajo focalizado.</li>
+</ul>
+<h3 id="área-2-comunicación-y-representación-de-la-realidad">Área 2: Comunicación y Representación de la Realidad</h3>
+<ul>
+<li><strong>Competencia específica:</strong> Emplear diferentes lenguajes y herramientas para expresar ideas, sentimientos y resolver pequeños retos de forma creativa.</li>
+<li><strong>Criterio de Evaluación asociado:</strong> Iniciarse en el uso de herramientas digitales y el pensamiento computacional a través del juego y la resolución de problemas sencillos de secuenciación.</li>
+<li><strong>Relación con las tareas:</strong> Se aplica al programar el robot Bee-Bot en parejas para encontrar animales en el tapete, requiriendo que los alumnos identifiquen la casilla de inicio, planifiquen la ruta (secuenciación) y corrijan el rumbo si el robot falla (depuración de errores).</li>
+</ul>
+<hr />
+<h2 id="👩‍🏫-orientaciones-metodológicas-y-buenas-prácticas">👩‍🏫 Orientaciones Metodológicas y Buenas Prácticas</h2>
+<p>Para llevar este proyecto al aula con éxito, especialmente en entornos inclusivos, se recomiendan las siguientes pautas:</p>
+<ol>
+<li><strong>Dinámica de Trabajo por Parejas:</strong> Agrupar al alumnado de forma heterogénea. Por ejemplo, emparejar a alumnos con dificultades de comunicación lingüística (como Amira) con compañeros con mayor competencia verbal. El lenguaje de programación por flechas actúa como un puente de comunicación no verbal excelente.</li>
+<li><strong>El Rol del Mediador en el Turno:</strong> Establecer físicamente un elemento (como un “carnet de programador” o un gomet físico) para marcar el turno. Mientras un alumno presiona los botones del Bee-Bot, el otro observa y valida la ruta en el tapete. Esto ayuda a estructurar la paciencia y autorregulación en niños con necesidades de apoyo cognitivo o de atención (como Leo).</li>
+<li><strong>Uso de la Autoevaluación como Rutina:</strong> Al finalizar cada sesión, dedicar los últimos 5 minutos a que los niños interactúen con la Diana en la tablet o pizarra digital. No se debe evaluar si el robot llegó o no al destino, sino el esfuerzo, el cuidado del material y el haber respetado las pausas de salud física.</li>
+</ol>
+<hr />
+<h2 id="📂-descarga-de-materiales-curriculares">📂 Descarga de Documentación Oficial</h2>
+<p>Si eres docente y deseas aplicar esta Situación de Aprendizaje en tu aula, puedes consultar, adaptar y descargar el documento de programación curricular completo (con los objetivos de etapa, saberes básicos y competencias clave detalladas) a través del siguiente enlace compartido:</p>
+<p><a href="https://docs.google.com/document/d/1vYasoslOTKBFeqheWFZ6WE9zhJbMosM_Kes0XjfXJTQ/edit?usp=sharing" target="_blank" title="" rel="noopener">📄 Documento de Programación: La Granja Saludable de Bee-Bot (Formato Editable)</a></p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779914222103-v0taercuw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"stackedit__html\">\n<h1 id=\"guía-didáctica-del-proyecto\">2. Guía didáctica del Proyecto</h1>\n<p>Esta sección está destinada al profesorado que desee replicar o adaptar esta Situación de Aprendizaje (SdA) en su aula de Infantil. A continuación, se detalla la propuesta curricular oficial y las orientaciones pedagógicas necesarias para su correcta implementación.</p>\n<hr />\n<h2 id=\"🎯-relación-curricular-infantil-3-años\">🎯 Relación Curricular (Infantil 3 años)</h2>\n<p>El proyecto se enmarca principalmente en dos áreas clave del currículo, vinculando las tareas digitales y analógicas con sus correspondientes criterios de evaluación:</p>\n<h3 id=\"área-1-crecimiento-en-armonía\">Área 1: Crecimiento en Armonía</h3>\n<ul>\n<li><strong>Competencia específica:</strong> Desarrollar de manera progresiva el control de su cuerpo, adquiriendo hábitos saludables de bienestar y autonomía.</li>\n<li><strong>Criterio de Evaluación asociado:</strong> Reconocer e imitar hábitos saludables relacionados con el bienestar físico y el descanso en entornos digitales.</li>\n<li><strong>Relación con las tareas:</strong> Se aplica directamente en las rutinas de <strong>“Salud Digital”</strong>, donde los niños detienen el uso de la tablet o el robot para realizar estiramientos y parpadeos guiados tras periodos de trabajo focalizado.</li>\n</ul>\n<h3 id=\"área-2-comunicación-y-representación-de-la-realidad\">Área 2: Comunicación y Representación de la Realidad</h3>\n<ul>\n<li><strong>Competencia específica:</strong> Emplear diferentes lenguajes y herramientas para expresar ideas, sentimientos y resolver pequeños retos de forma creativa.</li>\n<li><strong>Criterio de Evaluación asociado:</strong> Iniciarse en el uso de herramientas digitales y el pensamiento computacional a través del juego y la resolución de problemas sencillos de secuenciación.</li>\n<li><strong>Relación con las tareas:</strong> Se aplica al programar el robot Bee-Bot en parejas para encontrar animales en el tapete, requiriendo que los alumnos identifiquen la casilla de inicio, planifiquen la ruta (secuenciación) y corrijan el rumbo si el robot falla (depuración de errores).</li>\n</ul>\n<hr />\n<h2 id=\"👩‍🏫-orientaciones-metodológicas-y-buenas-prácticas\">👩‍🏫 Orientaciones Metodológicas y Buenas Prácticas</h2>\n<p>Para llevar este proyecto al aula con éxito, especialmente en entornos inclusivos, se recomiendan las siguientes pautas:</p>\n<ol>\n<li><strong>Dinámica de Trabajo por Parejas:</strong> Agrupar al alumnado de forma heterogénea. Por ejemplo, emparejar a alumnos con dificultades de comunicación lingüística (como Amira) con compañeros con mayor competencia verbal. El lenguaje de programación por flechas actúa como un puente de comunicación no verbal excelente.</li>\n<li><strong>El Rol del Mediador en el Turno:</strong> Establecer físicamente un elemento (como un “carnet de programador” o un gomet físico) para marcar el turno. Mientras un alumno presiona los botones del Bee-Bot, el otro observa y valida la ruta en el tapete. Esto ayuda a estructurar la paciencia y autorregulación en niños con necesidades de apoyo cognitivo o de atención (como Leo).</li>\n<li><strong>Uso de la Autoevaluación como Rutina:</strong> Al finalizar cada sesión, dedicar los últimos 5 minutos a que los niños interactúen con la Diana en la tablet o pizarra digital. No se debe evaluar si el robot llegó o no al destino, sino el esfuerzo, el cuidado del material y el haber respetado las pausas de salud física.</li>\n</ol>\n<hr />\n<h2 id=\"📂-descarga-de-materiales-curriculares\">📂 Descarga de Documentación Oficial</h2>\n<p>Si eres docente y deseas aplicar esta Situación de Aprendizaje en tu aula, puedes consultar, adaptar y descargar el documento de programación curricular completo (con los objetivos de etapa, saberes básicos y competencias clave detalladas) a través del siguiente enlace compartido:</p>\n<p><a href=\"https://docs.google.com/document/d/1vYasoslOTKBFeqheWFZ6WE9zhJbMosM_Kes0XjfXJTQ/edit?usp=sharing\" target=\"_blank\" title=\"\" rel=\"noopener\">📄 Documento de Programación: La Granja Saludable de Bee-Bot (Formato Editable)</a></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779919583535-ye6jdlyx3</odePageId>
+  <odeParentPageId>page-1779913861349-kn37mbsab</odeParentPageId>
+  <pageName>2.1. Concreción Curricular y Plan B</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.1. Concreción Curricular y Plan B</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779919583535-ye6jdlyx3</odePageId>
+      <odeBlockId>block-1779919623342-59k624jar</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779919583535-ye6jdlyx3</odePageId>
+          <odeBlockId>block-1779919623342-59k624jar</odeBlockId>
+          <odeIdeviceId>idevice-1779919623341-crobnl9rf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 class="code-line has-line-data" data-line-start="0" data-line-end="1"><a id="21_Mapa_Curricular_y_Gestin_de_Imprevistos_Plan_B_0"></a>2.1. Mapa Curricular y Gestión de Imprevistos (Plan B)</h1>
+<p class="has-line-data" data-line-start="2" data-line-end="3">Este apartado detalla la vinculación técnica de las tareas con el currículo oficial y la estrategia de respuesta ante fallos tecnológicos, garantizando que el aprendizaje nunca se detenga.</p>
+<hr />
+<h2 class="code-line has-line-data" data-line-start="6" data-line-end="7"><a id="Asociacin_de_Tareas_a_Criterios_de_Evaluacin_6"></a>📋 Asociación de Tareas a Criterios de Evaluación</h2>
+<table class="table table-striped table-bordered">
+<thead>
+<tr>
+<th style="text-align: left;">Tarea / Misión</th>
+<th style="text-align: left;">Criterio de Evaluación</th>
+<th style="text-align: left;">Agrupamiento</th>
+<th style="text-align: left;">Herramientas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><strong>1. Asamblea Inicial</strong></td>
+<td style="text-align: left;"><strong>1.2.</strong> Reconocer rutinas y hábitos saludables.</td>
+<td style="text-align: left;">Gran grupo</td>
+<td style="text-align: left;">Symbaloo + Infografía</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>2. Reto Bee-Bot Físico</strong></td>
+<td style="text-align: left;"><strong>3.1.</strong> Pensamiento Computacional (secuenciación).</td>
+<td style="text-align: left;">Parejas</td>
+<td style="text-align: left;">Robot + Pictogramas</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>3. Laberinto Simulador</strong></td>
+<td style="text-align: left;"><strong>3.3.</strong> Uso creativo y seguro de herramientas.</td>
+<td style="text-align: left;">Parejas</td>
+<td style="text-align: left;">Tablet + Simulador</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>4. Foto-Reflexión</strong></td>
+<td style="text-align: left;"><strong>1.1.</strong> Expresar necesidades y preferencias.</td>
+<td style="text-align: left;">Individual</td>
+<td style="text-align: left;">Cámara + Drive</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 class="code-line has-line-data" data-line-start="17" data-line-end="18"><a id="Plan_B_Gestin_de_la_Incertidumbre_Nivel_B2_17"></a>⚡ Plan B: Gestión de la Incertidumbre (Nivel B2)</h2>
+<p class="has-line-data" data-line-start="19" data-line-end="20">Como parte de la competencia digital docente, se establece un protocolo para solventar incidencias técnicas en el aula de 3 años:</p>
+<ol>
+<li class="has-line-data" data-line-start="21" data-line-end="22"><strong>Prevención:</strong> Revisión previa de carga de baterías y actualización de enlaces.</li>
+<li class="has-line-data" data-line-start="22" data-line-end="23"><strong>Modo “Unplugged” (Sin conexión):</strong> Ante fallos de WiFi o batería, activamos el tapete físico de papel y flechas de cartulina para seguir programando de forma analógica.</li>
+<li class="has-line-data" data-line-start="23" data-line-end="24"><strong>Ayudantes Digitales:</strong> Fomentamos el apoyo entre iguales. Los alumnos que dominan el reto ayudan a sus compañeros mientras la docente gestiona la incidencia técnica.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779919623341-crobnl9rf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 class=\"code-line has-line-data\" data-line-start=\"0\" data-line-end=\"1\"><a id=\"21_Mapa_Curricular_y_Gestin_de_Imprevistos_Plan_B_0\"></a>2.1. Mapa Curricular y Gestión de Imprevistos (Plan B)</h1>\n<p class=\"has-line-data\" data-line-start=\"2\" data-line-end=\"3\">Este apartado detalla la vinculación técnica de las tareas con el currículo oficial y la estrategia de respuesta ante fallos tecnológicos, garantizando que el aprendizaje nunca se detenga.</p>\n<hr />\n<h2 class=\"code-line has-line-data\" data-line-start=\"6\" data-line-end=\"7\"><a id=\"Asociacin_de_Tareas_a_Criterios_de_Evaluacin_6\"></a>📋 Asociación de Tareas a Criterios de Evaluación</h2>\n<table class=\"table table-striped table-bordered\">\n<thead>\n<tr>\n<th style=\"text-align: left;\">Tarea / Misión</th>\n<th style=\"text-align: left;\">Criterio de Evaluación</th>\n<th style=\"text-align: left;\">Agrupamiento</th>\n<th style=\"text-align: left;\">Herramientas</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\"><strong>1. Asamblea Inicial</strong></td>\n<td style=\"text-align: left;\"><strong>1.2.</strong> Reconocer rutinas y hábitos saludables.</td>\n<td style=\"text-align: left;\">Gran grupo</td>\n<td style=\"text-align: left;\">Symbaloo + Infografía</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>2. Reto Bee-Bot Físico</strong></td>\n<td style=\"text-align: left;\"><strong>3.1.</strong> Pensamiento Computacional (secuenciación).</td>\n<td style=\"text-align: left;\">Parejas</td>\n<td style=\"text-align: left;\">Robot + Pictogramas</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>3. Laberinto Simulador</strong></td>\n<td style=\"text-align: left;\"><strong>3.3.</strong> Uso creativo y seguro de herramientas.</td>\n<td style=\"text-align: left;\">Parejas</td>\n<td style=\"text-align: left;\">Tablet + Simulador</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>4. Foto-Reflexión</strong></td>\n<td style=\"text-align: left;\"><strong>1.1.</strong> Expresar necesidades y preferencias.</td>\n<td style=\"text-align: left;\">Individual</td>\n<td style=\"text-align: left;\">Cámara + Drive</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<h2 class=\"code-line has-line-data\" data-line-start=\"17\" data-line-end=\"18\"><a id=\"Plan_B_Gestin_de_la_Incertidumbre_Nivel_B2_17\"></a>⚡ Plan B: Gestión de la Incertidumbre (Nivel B2)</h2>\n<p class=\"has-line-data\" data-line-start=\"19\" data-line-end=\"20\">Como parte de la competencia digital docente, se establece un protocolo para solventar incidencias técnicas en el aula de 3 años:</p>\n<ol>\n<li class=\"has-line-data\" data-line-start=\"21\" data-line-end=\"22\"><strong>Prevención:</strong> Revisión previa de carga de baterías y actualización de enlaces.</li>\n<li class=\"has-line-data\" data-line-start=\"22\" data-line-end=\"23\"><strong>Modo “Unplugged” (Sin conexión):</strong> Ante fallos de WiFi o batería, activamos el tapete físico de papel y flechas de cartulina para seguir programando de forma analógica.</li>\n<li class=\"has-line-data\" data-line-start=\"23\" data-line-end=\"24\"><strong>Ayudantes Digitales:</strong> Fomentamos el apoyo entre iguales. Los alumnos que dominan el reto ayudan a sus compañeros mientras la docente gestiona la incidencia técnica.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779914879440-kmbbcqcii</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Normas y Privacidad</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Normas y Privacidad</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779914879440-kmbbcqcii</odePageId>
+      <odeBlockId>block-1779914987920-1cykenr29</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779914879440-kmbbcqcii</odePageId>
+          <odeBlockId>block-1779914987920-1cykenr29</odeBlockId>
+          <odeIdeviceId>idevice-1779914987918-1yel8svo0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 class="code-line has-line-data" data-line-start="0" data-line-end="1">3. Nuestras Normas de la Granja Digital y Privacidad</h1>
+<p class="has-line-data" data-line-start="2" data-line-end="3">En Infantil 3 años, la privacidad y los derechos digitales se enseñan a través de las rutinas diarias, el cuidado de los materiales y el respeto a la propia identidad mediante el juego. A continuación, se presenta cómo abordamos la protección de datos y las normas de convivencia digital con los más pequeños.</p>
+<hr />
+<h2 class="code-line has-line-data" data-line-start="6" data-line-end="7">🛡️ La Privacidad en el Aula: Protegemos nuestra identidad</h2>
+<p class="has-line-data" data-line-start="8" data-line-end="9">Para garantizar los derechos digitales de nuestro alumnado y cumplir estrictamente con el Reglamento General de Protección de Datos (RGPD), en esta Situación de Aprendizaje aplicamos la máxima de <strong>minimización de datos</strong>:</p>
+<ul>
+<li class="has-line-data" data-line-start="10" data-line-end="11"><strong>Avatares en lugar de fotos reales:</strong> Al utilizar la pizarra digital o herramientas interactivas (como nuestra diana de evaluación en Lucidspark), los niños no verán expuestas sus fotografías ni sus nombres completos. Cada alumno y alumna elegirá un <strong>avatar de un animal de la granja</strong> (un cerdito, una ovejita, una vaca o un pollito) con el que se identificará durante las dinámicas.</li>
+<li class="has-line-data" data-line-start="11" data-line-end="13"><strong>Privacidad desde el diseño:</strong> De este modo, protegemos la huella digital de los menores en la red, evitando subir imágenes de sus rostros a plataformas en la nube, garantizando un entorno seguro y de confianza para las familias.</li>
+</ul>
+<hr />
+<h2 class="code-line has-line-data" data-line-start="15" data-line-end="16">📜 Infografía Visual de Netiqueta: Las Normas de la Granja</h2>
+<p class="has-line-data" data-line-start="17" data-line-end="18">Antes de comenzar a tocar los robots o las tablets, realizamos una asamblea de inicio utilizando este cartel visual. Al estar diseñado con iconos claros, alumnos como Leo y Amira pueden comprender y recordar las normas de forma completamente autónoma:</p>
+<p class="has-line-data" data-line-start="17" data-line-end="18"><iframe width="640" height="480" src="https://drive.google.com/file/d/1IhM-ynDK5dVIVhr6giMTWjPKsPHw4y3_/preview"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779914987918-1yel8svo0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 class=\"code-line has-line-data\" data-line-start=\"0\" data-line-end=\"1\">3. Nuestras Normas de la Granja Digital y Privacidad</h1>\n<p class=\"has-line-data\" data-line-start=\"2\" data-line-end=\"3\">En Infantil 3 años, la privacidad y los derechos digitales se enseñan a través de las rutinas diarias, el cuidado de los materiales y el respeto a la propia identidad mediante el juego. A continuación, se presenta cómo abordamos la protección de datos y las normas de convivencia digital con los más pequeños.</p>\n<hr />\n<h2 class=\"code-line has-line-data\" data-line-start=\"6\" data-line-end=\"7\">🛡️ La Privacidad en el Aula: Protegemos nuestra identidad</h2>\n<p class=\"has-line-data\" data-line-start=\"8\" data-line-end=\"9\">Para garantizar los derechos digitales de nuestro alumnado y cumplir estrictamente con el Reglamento General de Protección de Datos (RGPD), en esta Situación de Aprendizaje aplicamos la máxima de <strong>minimización de datos</strong>:</p>\n<ul>\n<li class=\"has-line-data\" data-line-start=\"10\" data-line-end=\"11\"><strong>Avatares en lugar de fotos reales:</strong> Al utilizar la pizarra digital o herramientas interactivas (como nuestra diana de evaluación en Lucidspark), los niños no verán expuestas sus fotografías ni sus nombres completos. Cada alumno y alumna elegirá un <strong>avatar de un animal de la granja</strong> (un cerdito, una ovejita, una vaca o un pollito) con el que se identificará durante las dinámicas.</li>\n<li class=\"has-line-data\" data-line-start=\"11\" data-line-end=\"13\"><strong>Privacidad desde el diseño:</strong> De este modo, protegemos la huella digital de los menores en la red, evitando subir imágenes de sus rostros a plataformas en la nube, garantizando un entorno seguro y de confianza para las familias.</li>\n</ul>\n<hr />\n<h2 class=\"code-line has-line-data\" data-line-start=\"15\" data-line-end=\"16\">📜 Infografía Visual de Netiqueta: Las Normas de la Granja</h2>\n<p class=\"has-line-data\" data-line-start=\"17\" data-line-end=\"18\">Antes de comenzar a tocar los robots o las tablets, realizamos una asamblea de inicio utilizando este cartel visual. Al estar diseñado con iconos claros, alumnos como Leo y Amira pueden comprender y recordar las normas de forma completamente autónoma:</p>\n<p class=\"has-line-data\" data-line-start=\"17\" data-line-end=\"18\"><iframe width=\"640\" height=\"480\" src=\"https://drive.google.com/file/d/1IhM-ynDK5dVIVhr6giMTWjPKsPHw4y3_/preview\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779915728241-mlx8xjabj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. El Reto de los Exploradores</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. El Reto de los Exploradores</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779915728241-mlx8xjabj</odePageId>
+      <odeBlockId>block-1779916011127-udnhlig9x</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779915728241-mlx8xjabj</odePageId>
+          <odeBlockId>block-1779916011127-udnhlig9x</odeBlockId>
+          <odeIdeviceId>idevice-1779916011126-ole2f0uq1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 class="code-line has-line-data" data-line-start="0" data-line-end="1">4. El Gran Reto: Nuestro Producto Final</h1>
+<p class="has-line-data" data-line-start="2" data-line-end="3">El objetivo de esta Situación de Aprendizaje es que los alumnos de 3 años, trabajando en equipos cooperativos, completen con éxito el <strong>Reto de la Granja Saludable</strong>. El producto final que elaborará el alumnado no es un examen, sino la resolución de un desafío práctico y digital:</p>
+<h2 class="code-line has-line-data" data-line-start="4" data-line-end="5">🐝 El Desafío Bee-Bot: El Mapa del Tesoro Saludable</h2>
+<p class="has-line-data" data-line-start="5" data-line-end="6">El alumnado, organizado por parejas estables, deberá elaborar y ejecutar una <strong>secuencia de programación correcta</strong> sobre el tapete físico de la granja para conseguir que el robot Bee-Bot viaje desde la casilla de salida hasta la casilla del animal asignado.</p>
+<p class="has-line-data" data-line-start="7" data-line-end="8">Para que el reto sea un éxito, el producto final de los alumnos debe demostrar:</p>
+<ol>
+<li class="has-line-data" data-line-start="8" data-line-end="9"><strong>Planificación:</strong> Que han sido capaces de mirar el tapete e identificar las flechas de dirección necesarias (pensamiento computacional inicial).</li>
+<li class="has-line-data" data-line-start="9" data-line-end="10"><strong>Hábito Saludable (Salud Digital):</strong> Que han respetado las normas de cuidado del robot (manos limpias, pulsar suave) y han realizado las pausas físicas de estiramiento y parpadeo guiadas por la maestra.</li>
+<li class="has-line-data" data-line-start="10" data-line-end="12"><strong>Expresión del Logro (Autoevaluación):</strong> Como cierre del producto, cada equipo deberá acudir a la pantalla táctil para registrar de forma autónoma su experiencia, arrastrando su avatar de animal en la <strong>Diana Interactiva de Lucidspark</strong> que hemos diseñado.</li>
+</ol>
+<h3 class="code-line has-line-data" data-line-start="12" data-line-end="13">Adaptación DUA y coherencia del proyecto</h3>
+<p class="has-line-data" data-line-start="13" data-line-end="14">Este producto final está diseñado a la medida de la diversidad de nuestra aula:</p>
+<ul>
+<li class="has-line-data" data-line-start="14" data-line-end="15"><strong>Para Leo (NEAE):</strong> Su producto final consiste en pulsar físicamente los botones grandes del robot, recibiendo respuesta acústica y visual sin barreras abstractas.</li>
+<li class="has-line-data" data-line-start="15" data-line-end="16"><strong>Para Amira (Barrera lingüística):</strong> Demuestra su aprendizaje de forma puramente visual y motriz, tanto programando con las flechas universales como seleccionando su animal en Lucidspark, sin que el idioma sea un impedimento para demostrar que ha logrado el reto.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779916011126-ole2f0uq1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 class=\"code-line has-line-data\" data-line-start=\"0\" data-line-end=\"1\">4. El Gran Reto: Nuestro Producto Final</h1>\n<p class=\"has-line-data\" data-line-start=\"2\" data-line-end=\"3\">El objetivo de esta Situación de Aprendizaje es que los alumnos de 3 años, trabajando en equipos cooperativos, completen con éxito el <strong>Reto de la Granja Saludable</strong>. El producto final que elaborará el alumnado no es un examen, sino la resolución de un desafío práctico y digital:</p>\n<h2 class=\"code-line has-line-data\" data-line-start=\"4\" data-line-end=\"5\">🐝 El Desafío Bee-Bot: El Mapa del Tesoro Saludable</h2>\n<p class=\"has-line-data\" data-line-start=\"5\" data-line-end=\"6\">El alumnado, organizado por parejas estables, deberá elaborar y ejecutar una <strong>secuencia de programación correcta</strong> sobre el tapete físico de la granja para conseguir que el robot Bee-Bot viaje desde la casilla de salida hasta la casilla del animal asignado.</p>\n<p class=\"has-line-data\" data-line-start=\"7\" data-line-end=\"8\">Para que el reto sea un éxito, el producto final de los alumnos debe demostrar:</p>\n<ol>\n<li class=\"has-line-data\" data-line-start=\"8\" data-line-end=\"9\"><strong>Planificación:</strong> Que han sido capaces de mirar el tapete e identificar las flechas de dirección necesarias (pensamiento computacional inicial).</li>\n<li class=\"has-line-data\" data-line-start=\"9\" data-line-end=\"10\"><strong>Hábito Saludable (Salud Digital):</strong> Que han respetado las normas de cuidado del robot (manos limpias, pulsar suave) y han realizado las pausas físicas de estiramiento y parpadeo guiadas por la maestra.</li>\n<li class=\"has-line-data\" data-line-start=\"10\" data-line-end=\"12\"><strong>Expresión del Logro (Autoevaluación):</strong> Como cierre del producto, cada equipo deberá acudir a la pantalla táctil para registrar de forma autónoma su experiencia, arrastrando su avatar de animal en la <strong>Diana Interactiva de Lucidspark</strong> que hemos diseñado.</li>\n</ol>\n<h3 class=\"code-line has-line-data\" data-line-start=\"12\" data-line-end=\"13\">Adaptación DUA y coherencia del proyecto</h3>\n<p class=\"has-line-data\" data-line-start=\"13\" data-line-end=\"14\">Este producto final está diseñado a la medida de la diversidad de nuestra aula:</p>\n<ul>\n<li class=\"has-line-data\" data-line-start=\"14\" data-line-end=\"15\"><strong>Para Leo (NEAE):</strong> Su producto final consiste en pulsar físicamente los botones grandes del robot, recibiendo respuesta acústica y visual sin barreras abstractas.</li>\n<li class=\"has-line-data\" data-line-start=\"15\" data-line-end=\"16\"><strong>Para Amira (Barrera lingüística):</strong> Demuestra su aprendizaje de forma puramente visual y motriz, tanto programando con las flechas universales como seleccionando su animal en Lucidspark, sin que el idioma sea un impedimento para demostrar que ha logrado el reto.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779916575854-4v8ortevl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. El Mapa del Tesoro: Organización de Actividades</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. El Mapa del Tesoro: Organización de Actividades</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779916575854-4v8ortevl</odePageId>
+      <odeBlockId>block-1779916636550-yong2oqh1</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779916575854-4v8ortevl</odePageId>
+          <odeBlockId>block-1779916636550-yong2oqh1</odeBlockId>
+          <odeIdeviceId>idevice-1779916636549-xwk6wrdyi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 class="code-line has-line-data" data-line-start="0" data-line-end="1">5. El Mapa del Tesoro: Organización de Actividades</h1>
+<p class="has-line-data" data-line-start="2" data-line-end="3">Para facilitar la comprensión visual y garantizar la predictibilidad que requieren alumnos como Leo y Amira (siguiendo los principios del DUA), la secuencia de nuestra Situación de Aprendizaje está organizada en 4 grandes misiones cronológicas y un plan estratégico de contingencia técnica.</p>
+<p class="has-line-data" data-line-start="4" data-line-end="5">A continuación, se detalla el mapa de ruta definitivo del proyecto:</p>
+<hr />
+<h2 class="code-line has-line-data" data-line-start="8" data-line-end="9">📅 Organización General del Viaje</h2>
+<ul>
+<li class="has-line-data" data-line-start="9" data-line-end="10"><strong>Temporalización:</strong> 2 semanas estructuradas de forma andamiada.</li>
+<li class="has-line-data" data-line-start="10" data-line-end="11"><strong>Espacios:</strong> El aula de referencia y la sala de psicomotricidad (para el movimiento en suelo).</li>
+<li class="has-line-data" data-line-start="11" data-line-end="12"><strong>Agrupamiento:</strong> Parejas de ayuda mutua (fomentando la inclusión lingüística de Amira).</li>
+<li class="has-line-data" data-line-start="12" data-line-end="14"><strong>Recursos:</strong> Combinación equilibrada de robótica física (Bee-Bot) y pantallas (Tablets del centro).</li>
+</ul>
+<hr />
+<h2 class="code-line has-line-data" data-line-start="16" data-line-end="17">🚀 Las 4 Misiones Granjeras</h2>
+<ul>
+<li class="has-line-data" data-line-start="18" data-line-end="20"><strong>Misión 1: ¡Despegue Robot!</strong>
+<ul>
+<li class="has-line-data" data-line-start="19" data-line-end="20">Aprendemos las normas de uso (netiqueta), nos limpiamos las manos y encendemos por primera vez los motores del Bee-Bot para familiarizarnos con su respuesta táctil y acústica.</li>
+</ul>
+</li>
+<li class="has-line-data" data-line-start="20" data-line-end="22"><strong>Misión 2: Operación Verdura</strong>
+<ul>
+<li class="has-line-data" data-line-start="21" data-line-end="22">Programamos al Bee-Bot físico sobre el tapete de suelo para “buscar y comer” alimentos sanos (frutas y verduras), trabajando la secuenciación de pasos elementales.</li>
+</ul>
+</li>
+<li class="has-line-data" data-line-start="22" data-line-end="26"><strong>Misión 3: El Ciber-Laberinto</strong>
+<ul>
+<li class="has-line-data" data-line-start="23" data-line-end="24">Trasladamos la lógica computacional a las pantallas táctiles. Superamos retos de programación dentro de un simulador digital adaptado a nuestra edad.</li>
+<li class="has-line-data" data-line-start="24" data-line-end="25"><em>Pausa Activa:</em> Bailamos y realizamos estiramientos cada 10 minutos (salud digital).</li>
+<li class="has-line-data" data-line-start="25" data-line-end="26"><em>Seguridad y Privacidad:</em> Cuidamos nuestra identidad utilizando los avatares de animales.</li>
+</ul>
+</li>
+<li class="has-line-data" data-line-start="26" data-line-end="29"><strong>Misión 4: Foto-Granja Final</strong>
+<ul>
+<li class="has-line-data" data-line-start="27" data-line-end="29">¡Click! Registramos de forma consciente una captura de nuestros logros en el porfolio en la nube y cerramos la sesión arrastrando nuestros gomets en la diana interactiva.</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h2 class="code-line has-line-data" data-line-start="31" data-line-end="32">🛡️ Sección 3: Plan B (Gestión de la Incertidumbre Técnica)</h2>
+<p class="has-line-data" data-line-start="32" data-line-end="33">Frente a imprevistos en el aula digital (Indicador B2 de competencia digital), contamos con soluciones inmediatas para que el aprendizaje nunca se detenga:</p>
+<ol>
+<li class="has-line-data" data-line-start="33" data-line-end="34"><strong>¿Sin batería?:</strong> ¡Activamos el modo analógico! Usamos un tapete físico de papel y flechas impresas en cartulina para seguir programando “desconectados”.</li>
+<li class="has-line-data" data-line-start="34" data-line-end="35"><strong>¿Sin WiFi?:</strong> Continuamos la sesión con el material didáctico descargado previamente en local en los dispositivos.</li>
+<li class="has-line-data" data-line-start="35" data-line-end="37"><strong>¿Dudas o fallos?:</strong> El rol rotativo del “Ayudante Digital” (un alumno mediador) colabora para resolver pequeños problemas técnicos entre iguales.</li>
+</ol>
+<hr />
+<h2 class="code-line has-line-data" data-line-start="39" data-line-end="40">📂 Infografía Oficial del Proyecto (Descargable)</h2>
+<p class="has-line-data" data-line-start="40" data-line-end="41">Cualquier docente que acceda a este recurso puede visualizar y descargar el mapa infográfico interactivo completo de la SdA en formato accesible a través del siguiente repositorio:</p>
+<ul>
+<li class="has-line-data" data-line-start="42" data-line-end="43">📥 <strong><a href="https://drive.google.com/file/d/1usnTAZJvqngnAciEZ2iUELl86UogfS4X/view?usp=sharing">Descargar Infografía de la SdA: La Granja de Bee-Bot (PDF Original)</a></strong><strong></strong></li>
+</ul>
+<p><iframe width="640" height="480" src="https://drive.google.com/file/d/1usnTAZJvqngnAciEZ2iUELl86UogfS4X/preview"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779916636549-xwk6wrdyi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 class=\"code-line has-line-data\" data-line-start=\"0\" data-line-end=\"1\">5. El Mapa del Tesoro: Organización de Actividades</h1>\n<p class=\"has-line-data\" data-line-start=\"2\" data-line-end=\"3\">Para facilitar la comprensión visual y garantizar la predictibilidad que requieren alumnos como Leo y Amira (siguiendo los principios del DUA), la secuencia de nuestra Situación de Aprendizaje está organizada en 4 grandes misiones cronológicas y un plan estratégico de contingencia técnica.</p>\n<p class=\"has-line-data\" data-line-start=\"4\" data-line-end=\"5\">A continuación, se detalla el mapa de ruta definitivo del proyecto:</p>\n<hr />\n<h2 class=\"code-line has-line-data\" data-line-start=\"8\" data-line-end=\"9\">📅 Organización General del Viaje</h2>\n<ul>\n<li class=\"has-line-data\" data-line-start=\"9\" data-line-end=\"10\"><strong>Temporalización:</strong> 2 semanas estructuradas de forma andamiada.</li>\n<li class=\"has-line-data\" data-line-start=\"10\" data-line-end=\"11\"><strong>Espacios:</strong> El aula de referencia y la sala de psicomotricidad (para el movimiento en suelo).</li>\n<li class=\"has-line-data\" data-line-start=\"11\" data-line-end=\"12\"><strong>Agrupamiento:</strong> Parejas de ayuda mutua (fomentando la inclusión lingüística de Amira).</li>\n<li class=\"has-line-data\" data-line-start=\"12\" data-line-end=\"14\"><strong>Recursos:</strong> Combinación equilibrada de robótica física (Bee-Bot) y pantallas (Tablets del centro).</li>\n</ul>\n<hr />\n<h2 class=\"code-line has-line-data\" data-line-start=\"16\" data-line-end=\"17\">🚀 Las 4 Misiones Granjeras</h2>\n<ul>\n<li class=\"has-line-data\" data-line-start=\"18\" data-line-end=\"20\"><strong>Misión 1: ¡Despegue Robot!</strong>\n<ul>\n<li class=\"has-line-data\" data-line-start=\"19\" data-line-end=\"20\">Aprendemos las normas de uso (netiqueta), nos limpiamos las manos y encendemos por primera vez los motores del Bee-Bot para familiarizarnos con su respuesta táctil y acústica.</li>\n</ul>\n</li>\n<li class=\"has-line-data\" data-line-start=\"20\" data-line-end=\"22\"><strong>Misión 2: Operación Verdura</strong>\n<ul>\n<li class=\"has-line-data\" data-line-start=\"21\" data-line-end=\"22\">Programamos al Bee-Bot físico sobre el tapete de suelo para “buscar y comer” alimentos sanos (frutas y verduras), trabajando la secuenciación de pasos elementales.</li>\n</ul>\n</li>\n<li class=\"has-line-data\" data-line-start=\"22\" data-line-end=\"26\"><strong>Misión 3: El Ciber-Laberinto</strong>\n<ul>\n<li class=\"has-line-data\" data-line-start=\"23\" data-line-end=\"24\">Trasladamos la lógica computacional a las pantallas táctiles. Superamos retos de programación dentro de un simulador digital adaptado a nuestra edad.</li>\n<li class=\"has-line-data\" data-line-start=\"24\" data-line-end=\"25\"><em>Pausa Activa:</em> Bailamos y realizamos estiramientos cada 10 minutos (salud digital).</li>\n<li class=\"has-line-data\" data-line-start=\"25\" data-line-end=\"26\"><em>Seguridad y Privacidad:</em> Cuidamos nuestra identidad utilizando los avatares de animales.</li>\n</ul>\n</li>\n<li class=\"has-line-data\" data-line-start=\"26\" data-line-end=\"29\"><strong>Misión 4: Foto-Granja Final</strong>\n<ul>\n<li class=\"has-line-data\" data-line-start=\"27\" data-line-end=\"29\">¡Click! Registramos de forma consciente una captura de nuestros logros en el porfolio en la nube y cerramos la sesión arrastrando nuestros gomets en la diana interactiva.</li>\n</ul>\n</li>\n</ul>\n<hr />\n<h2 class=\"code-line has-line-data\" data-line-start=\"31\" data-line-end=\"32\">🛡️ Sección 3: Plan B (Gestión de la Incertidumbre Técnica)</h2>\n<p class=\"has-line-data\" data-line-start=\"32\" data-line-end=\"33\">Frente a imprevistos en el aula digital (Indicador B2 de competencia digital), contamos con soluciones inmediatas para que el aprendizaje nunca se detenga:</p>\n<ol>\n<li class=\"has-line-data\" data-line-start=\"33\" data-line-end=\"34\"><strong>¿Sin batería?:</strong> ¡Activamos el modo analógico! Usamos un tapete físico de papel y flechas impresas en cartulina para seguir programando “desconectados”.</li>\n<li class=\"has-line-data\" data-line-start=\"34\" data-line-end=\"35\"><strong>¿Sin WiFi?:</strong> Continuamos la sesión con el material didáctico descargado previamente en local en los dispositivos.</li>\n<li class=\"has-line-data\" data-line-start=\"35\" data-line-end=\"37\"><strong>¿Dudas o fallos?:</strong> El rol rotativo del “Ayudante Digital” (un alumno mediador) colabora para resolver pequeños problemas técnicos entre iguales.</li>\n</ol>\n<hr />\n<h2 class=\"code-line has-line-data\" data-line-start=\"39\" data-line-end=\"40\">📂 Infografía Oficial del Proyecto (Descargable)</h2>\n<p class=\"has-line-data\" data-line-start=\"40\" data-line-end=\"41\">Cualquier docente que acceda a este recurso puede visualizar y descargar el mapa infográfico interactivo completo de la SdA en formato accesible a través del siguiente repositorio:</p>\n<ul>\n<li class=\"has-line-data\" data-line-start=\"42\" data-line-end=\"43\">📥 <strong><a href=\"https://drive.google.com/file/d/1usnTAZJvqngnAciEZ2iUELl86UogfS4X/view?usp=sharing\">Descargar Infografía de la SdA: La Granja de Bee-Bot (PDF Original)</a></strong><strong></strong></li>\n</ul>\n<p><iframe width=\"640\" height=\"480\" src=\"https://drive.google.com/file/d/1usnTAZJvqngnAciEZ2iUELl86UogfS4X/preview\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779917697392-ezdj1sf57</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Baúl de Recursos (Curación)</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Baúl de Recursos (Curación)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779917697392-ezdj1sf57</odePageId>
+      <odeBlockId>block-1779917699295-usix88qrh</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779917697392-ezdj1sf57</odePageId>
+          <odeBlockId>block-1779917699295-usix88qrh</odeBlockId>
+          <odeIdeviceId>idevice-1779917699293-3zj8l1iao</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 class="code-line has-line-data" data-line-start="0" data-line-end="1">6. Ecosistema Digital: Curación de Contenidos</h1>
+<p class="has-line-data" data-line-start="2" data-line-end="3">La selección de recursos para “La Granja Saludable” no es una simple lista; es un proceso de filtrado pedagógico diseñado para garantizar la seguridad, la inclusión y la efectividad docente.</p>
+<hr />
+<h2 class="code-line has-line-data" data-line-start="6" data-line-end="7"><a id="61_Recursos_para_Alumnado_y_Familias_Symbaloo_6"></a>🧒 6.1. Recursos para Alumnado y Familias (Symbaloo)</h2>
+<p class="has-line-data" data-line-start="7" data-line-end="8">Hemos diseñado un tablero visual intuitivo que permite a los niños y niñas de 3 años (y a sus familias desde casa) acceder a contenidos de calidad sin distracciones.</p>
+<ul>
+<li class="has-line-data" data-line-start="9" data-line-end="10">🔗 <strong>Enlace al Tablero Visual:</strong> <a href="https://www.symbaloo.com/shared/AAAAAcSu3dAAA41-5ERPCw==">Acceder a la Granja en Symbaloo</a></li>
+<li class="has-line-data" data-line-start="10" data-line-end="11"><strong>Contenidos:</strong> Simulador de Bee-Bot en Scratch, canciones de animales y juegos de clasificación de alimentos saludables.</li>
+<li class="has-line-data" data-line-start="11" data-line-end="13"><strong>Criterio DUA:</strong> Simplicidad absoluta y alto componente visual para favorecer la autonomía de alumnos como <strong>Amira y Leo</strong>.</li>
+</ul>
+<hr />
+<h2 class="code-line has-line-data" data-line-start="15" data-line-end="16"><a id="62_Gestin_del_Aula_y_Recursos_Docentes_Padlet_15"></a>👩‍🏫 6.2. Gestión del Aula y Recursos Docentes (Padlet)</h2>
+<p class="has-line-data" data-line-start="16" data-line-end="17">Este muro organiza mi ecosistema profesional diario, estructurado por áreas de competencia para facilitar la gestión de la SdA.</p>
+<ul>
+<li class="has-line-data" data-line-start="18" data-line-end="19">🔗 <strong>Enlace al Muro de Gestión:</strong> <a href="https://padlet.com/esmeraldaverdejomarquez/gestion-docente-proyecto-granja-saludable-5lgc4r40kxu4wj4p">Acceder al Padlet Docente</a></li>
+<li class="has-line-data" data-line-start="19" data-line-end="20"><strong>Inclusión:</strong> Acceso directo a ARASAAC y herramientas de creación como eXeLearning.</li>
+<li class="has-line-data" data-line-start="20" data-line-end="22"><strong>Seguridad:</strong> Guías de IS4K, Pantallas Amigas y licencias Creative Commons para un uso ético y legal.</li>
+</ul>
+<hr />
+<h2 class="code-line has-line-data" data-line-start="24" data-line-end="25"><a id="Justificacin_y_Difusin_24"></a>💡 Justificación y Difusión</h2>
+<ul>
+<li class="has-line-data" data-line-start="25" data-line-end="26"><strong>Organización:</strong> Symbaloo para la interacción táctil infantil y Padlet para la clasificación profesional estructurada.</li>
+<li class="has-line-data" data-line-start="26" data-line-end="27"><strong>Difusión:</strong> Estos paneles se comparten con las familias vía <strong>iPasen</strong>.</li>
+<li class="has-line-data" data-line-start="27" data-line-end="28"><strong>Medición:</strong> Evaluamos la efectividad mediante el feedback de las familias en las tutorías por <strong>Meet</strong> y observando la autonomía real del alumnado en el aula.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779917699293-3zj8l1iao","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 class=\"code-line has-line-data\" data-line-start=\"0\" data-line-end=\"1\">6. Ecosistema Digital: Curación de Contenidos</h1>\n<p class=\"has-line-data\" data-line-start=\"2\" data-line-end=\"3\">La selección de recursos para “La Granja Saludable” no es una simple lista; es un proceso de filtrado pedagógico diseñado para garantizar la seguridad, la inclusión y la efectividad docente.</p>\n<hr />\n<h2 class=\"code-line has-line-data\" data-line-start=\"6\" data-line-end=\"7\"><a id=\"61_Recursos_para_Alumnado_y_Familias_Symbaloo_6\"></a>🧒 6.1. Recursos para Alumnado y Familias (Symbaloo)</h2>\n<p class=\"has-line-data\" data-line-start=\"7\" data-line-end=\"8\">Hemos diseñado un tablero visual intuitivo que permite a los niños y niñas de 3 años (y a sus familias desde casa) acceder a contenidos de calidad sin distracciones.</p>\n<ul>\n<li class=\"has-line-data\" data-line-start=\"9\" data-line-end=\"10\">🔗 <strong>Enlace al Tablero Visual:</strong> <a href=\"https://www.symbaloo.com/shared/AAAAAcSu3dAAA41-5ERPCw==\">Acceder a la Granja en Symbaloo</a></li>\n<li class=\"has-line-data\" data-line-start=\"10\" data-line-end=\"11\"><strong>Contenidos:</strong> Simulador de Bee-Bot en Scratch, canciones de animales y juegos de clasificación de alimentos saludables.</li>\n<li class=\"has-line-data\" data-line-start=\"11\" data-line-end=\"13\"><strong>Criterio DUA:</strong> Simplicidad absoluta y alto componente visual para favorecer la autonomía de alumnos como <strong>Amira y Leo</strong>.</li>\n</ul>\n<hr />\n<h2 class=\"code-line has-line-data\" data-line-start=\"15\" data-line-end=\"16\"><a id=\"62_Gestin_del_Aula_y_Recursos_Docentes_Padlet_15\"></a>👩‍🏫 6.2. Gestión del Aula y Recursos Docentes (Padlet)</h2>\n<p class=\"has-line-data\" data-line-start=\"16\" data-line-end=\"17\">Este muro organiza mi ecosistema profesional diario, estructurado por áreas de competencia para facilitar la gestión de la SdA.</p>\n<ul>\n<li class=\"has-line-data\" data-line-start=\"18\" data-line-end=\"19\">🔗 <strong>Enlace al Muro de Gestión:</strong> <a href=\"https://padlet.com/esmeraldaverdejomarquez/gestion-docente-proyecto-granja-saludable-5lgc4r40kxu4wj4p\">Acceder al Padlet Docente</a></li>\n<li class=\"has-line-data\" data-line-start=\"19\" data-line-end=\"20\"><strong>Inclusión:</strong> Acceso directo a ARASAAC y herramientas de creación como eXeLearning.</li>\n<li class=\"has-line-data\" data-line-start=\"20\" data-line-end=\"22\"><strong>Seguridad:</strong> Guías de IS4K, Pantallas Amigas y licencias Creative Commons para un uso ético y legal.</li>\n</ul>\n<hr />\n<h2 class=\"code-line has-line-data\" data-line-start=\"24\" data-line-end=\"25\"><a id=\"Justificacin_y_Difusin_24\"></a>💡 Justificación y Difusión</h2>\n<ul>\n<li class=\"has-line-data\" data-line-start=\"25\" data-line-end=\"26\"><strong>Organización:</strong> Symbaloo para la interacción táctil infantil y Padlet para la clasificación profesional estructurada.</li>\n<li class=\"has-line-data\" data-line-start=\"26\" data-line-end=\"27\"><strong>Difusión:</strong> Estos paneles se comparten con las familias vía <strong>iPasen</strong>.</li>\n<li class=\"has-line-data\" data-line-start=\"27\" data-line-end=\"28\"><strong>Medición:</strong> Evaluamos la efectividad mediante el feedback de las familias en las tutorías por <strong>Meet</strong> y observando la autonomía real del alumnado en el aula.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779918179079-4vfcvny5t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Evaluación e Instrumentos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Evaluación e Instrumentos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779918179079-4vfcvny5t</odePageId>
+      <odeBlockId>block-1779918180607-0ogf2zy6x</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779918179079-4vfcvny5t</odePageId>
+          <odeBlockId>block-1779918180607-0ogf2zy6x</odeBlockId>
+          <odeIdeviceId>idevice-1779918180606-1ol5s2oxv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 class="code-line has-line-data" data-line-start="0" data-line-end="1"><a id="7_Evaluacin_Criterios_e_Instrumentos_Tarea_81_0"></a>7. Evaluación: Criterios e Instrumentos (Tarea 8.1)</h1>
+<p class="has-line-data" data-line-start="2" data-line-end="3"><br /></p>
+<p class="has-line-data" data-line-start="2" data-line-end="3">En esta Situación de Aprendizaje, la evaluación es un proceso formativo, continuo y compartido. No buscamos una calificación tradicional, sino registrar el progreso del alumnado en su competencia digital, el pensamiento computacional y la adquisición de hábitos saludables.</p>
+<p class="has-line-data" data-line-start="4" data-line-end="5">A continuación, se presentan los instrumentos diseñados y las instrucciones para que cualquier docente pueda replicar este sistema de evaluación en su aula.</p>
+<hr />
+<h2 class="code-line has-line-data" data-line-start="8" data-line-end="9"><a id="71_Instrumento_Docente_Lista_de_Cotejo_Digital_Google_Sheets_8"></a>📊 7.1. Instrumento Docente: Lista de Cotejo Digital (Google Sheets)</h2>
+<p class="has-line-data" data-line-start="10" data-line-end="11">Diseñada para la observación sistemática y directa durante las misiones con el Bee-Bot. Permite registrar el desempeño de cada alumno y equipo de forma ágil desde una tablet o smartphone a pie de aula.</p>
+<ul>
+<li class="has-line-data" data-line-start="12" data-line-end="14">🔗 <strong>Acceso a la plantilla editable:</strong> <a href="https://docs.google.com/spreadsheets/d/1BnbOnZxdM9w6JSJbHNwHrIuWX4yBjM2KCdlM3QazQFM/edit?gid=0#gid=0" title="">Plantilla de la Lista de Cotejo en Google Sheets</a></li>
+<li><strong>Funcionamiento:</strong> He configurado casillas de verificación (checkboxes) para anotar variables como 'Identifica Inicio/Fin', 'Secuenciar pasos', 'Corregir Error' y 'Colaborar'.</li>
+<li><strong>Análisis de datos: </strong>La hoja incluye una fórmula automatizada que calcula instantáneamente el porcentaje de éxito de la clase para cada item. Esto me permite, por ejemplo, detectar si la variable 'Secuenciar Pasos' tiene un porcentaje bajo y decidir inmediatamente reforzar esa habilidad en la asamblea antes de la siguiente sesión. El uso de $ en la fórmula fija el total de alumnos, asegurando que el cálculo sea correcto aunque la lista de clase cambie.</li>
+</ul>
+<h3 class="code-line has-line-data" data-line-start="14" data-line-end="15"><a id="Vista_previa_del_Instrumento_de_Evaluacin_14"></a>📸 Vista previa del Instrumento de Evaluación:</h3>
+<p class="has-line-data" data-line-start="15" data-line-end="16"><em>(A continuación, se muestra la estructura visual de la matriz de evaluación y los indicadores que debe observar el profesorado):</em></p>
+<p class="has-line-data" data-line-start="15" data-line-end="16"><em><img src="{{context_path}}/content/resources/mceclip0.png" /></em></p>
+<p class="has-line-data" data-line-start="15" data-line-end="16"><em></em><br /></p>
+<hr />
+<h2 class="code-line has-line-data" data-line-start="2" data-line-end="3"><a id="72_Instrumento_del_Alumnado_Diana_Interactiva_Lucidspark_2"></a>🎯 7.2. Instrumento del Alumnado: Diana Interactiva (Lucidspark)</h2>
+<p class="has-line-data" data-line-start="4" data-line-end="5">Fomentamos la autoevaluación y la metacognición desde los 3 años mediante un entorno visual y táctil en la pizarra digital o tablet.</p>
+<ul>
+<li class="has-line-data" data-line-start="7" data-line-end="9"><strong>Adaptación DUA y Privacidad:</strong> Se aplica el “bloqueo de objetos” en Lucidspark. Los niños solo pueden mover su avatar de animal (protegiendo su identidad real), evitando que borren el fondo por error, facilitando la experiencia a alumnos con dificultades motrices como Leo o barreras lingüísticas como Amira. La diana utiliza iconos claros y divertidos (Salud, <br />Cuidado del Robot y Trabajo en Equipo) para que niños que no leen entiendan las variables.</li>
+<li><strong>Funcionamiento: </strong>Los alumnos arrastrarán su avatar (un gomet digital) hacia el círculo concéntrico que mejor represente su percepción de logro. El centro (la estrella) representa el máximo éxito. Esta mecánica facilita la accesibilidad cognitiva y motriz para Leo y Amira. Los datos obtenidos no buscan una calificación, sino iniciar un diálogo reflexivo (feedback cualitativo) con el grupo sobre la importancia de aspectos actitudinales y de salud digital (ej. los descansos visuales).</li>
+</ul>
+<hr />
+<h2 class="code-line has-line-data" data-line-start="11" data-line-end="12"><a id="73_Gua_de_Reutilizacin_Cmo_evaluar_a_tu_alumnado_con_este_eXeLearning_11"></a>👩‍🏫 7.3. Guía de Reutilización: ¿Cómo evaluar a tu alumnado con este eXeLearning?</h2>
+<p class="has-line-data" data-line-start="13" data-line-end="14">Si eres el docente que va a reutilizar esta Situación de Aprendizaje, sigue estos pasos para realizar el registro individual de cada alumno de forma eficiente:</p>
+<ol>
+<li class="has-line-data" data-line-start="15" data-line-end="16"><strong>Preparación del registro individual (Antes de empezar):</strong> Haz clic en el enlace de Google Sheets provisto arriba y selecciona <em>Archivo &gt; Hacer una copia</em>. Esto creará una versión privada en tu Google Drive donde podrás sustituir los nombres de los alumnos por los de los alumnos de tu propia clase.</li>
+<li class="has-line-data" data-line-start="16" data-line-end="17"><strong>Registro durante la sesión (Evaluación continua):</strong> Mientras los alumnos juegan por parejas en el suelo con el Bee-Bot, abre la hoja de cálculo desde una tablet o móvil. Solo tienes que marcar con una “X” o un “SÍ” si el alumno cumple el indicador (por ejemplo, si realiza la pausa de parpadeo visual o si borra la memoria del robot). La hoja calculará automáticamente el porcentaje de logro de cada niño y coloreará los éxitos en verde.</li>
+<li class="has-line-data" data-line-start="17" data-line-end="18"><strong>Captura de Evidencias y Cierre (Registro del Portafolio):</strong> Al finalizar la última misión, haz una captura de pantalla del lienzo de Lucidspark con la diana rellenada por tus alumnos. Guarda esa imagen junto con el PDF de la lista de cotejo en una carpeta de Google Drive dedicada a tu grupo.</li>
+<li class="has-line-data" data-line-start="18" data-line-end="19"><strong>Comunicación familiar:</strong> Sube la captura de la diana de autoevaluación y una foto anónima del equipo programando a tu plataforma de comunicación oficial (como <strong>iPasen</strong> o la que use tu centro) para informar a las familias del progreso en salud digital de sus hijos.</li>
+</ol>
+<p><img src="{{context_path}}/content/resources/mceclip1.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779918180606-1ol5s2oxv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 class=\"code-line has-line-data\" data-line-start=\"0\" data-line-end=\"1\"><a id=\"7_Evaluacin_Criterios_e_Instrumentos_Tarea_81_0\"></a>7. Evaluación: Criterios e Instrumentos (Tarea 8.1)</h1>\n<p class=\"has-line-data\" data-line-start=\"2\" data-line-end=\"3\"><br /></p>\n<p class=\"has-line-data\" data-line-start=\"2\" data-line-end=\"3\">En esta Situación de Aprendizaje, la evaluación es un proceso formativo, continuo y compartido. No buscamos una calificación tradicional, sino registrar el progreso del alumnado en su competencia digital, el pensamiento computacional y la adquisición de hábitos saludables.</p>\n<p class=\"has-line-data\" data-line-start=\"4\" data-line-end=\"5\">A continuación, se presentan los instrumentos diseñados y las instrucciones para que cualquier docente pueda replicar este sistema de evaluación en su aula.</p>\n<hr />\n<h2 class=\"code-line has-line-data\" data-line-start=\"8\" data-line-end=\"9\"><a id=\"71_Instrumento_Docente_Lista_de_Cotejo_Digital_Google_Sheets_8\"></a>📊 7.1. Instrumento Docente: Lista de Cotejo Digital (Google Sheets)</h2>\n<p class=\"has-line-data\" data-line-start=\"10\" data-line-end=\"11\">Diseñada para la observación sistemática y directa durante las misiones con el Bee-Bot. Permite registrar el desempeño de cada alumno y equipo de forma ágil desde una tablet o smartphone a pie de aula.</p>\n<ul>\n<li class=\"has-line-data\" data-line-start=\"12\" data-line-end=\"14\">🔗 <strong>Acceso a la plantilla editable:</strong> <a href=\"https://docs.google.com/spreadsheets/d/1BnbOnZxdM9w6JSJbHNwHrIuWX4yBjM2KCdlM3QazQFM/edit?gid=0#gid=0\" title=\"\">Plantilla de la Lista de Cotejo en Google Sheets</a></li>\n<li><strong>Funcionamiento:</strong> He configurado casillas de verificación (checkboxes) para anotar variables como 'Identifica Inicio/Fin', 'Secuenciar pasos', 'Corregir Error' y 'Colaborar'.</li>\n<li><strong>Análisis de datos: </strong>La hoja incluye una fórmula automatizada que calcula instantáneamente el porcentaje de éxito de la clase para cada item. Esto me permite, por ejemplo, detectar si la variable 'Secuenciar Pasos' tiene un porcentaje bajo y decidir inmediatamente reforzar esa habilidad en la asamblea antes de la siguiente sesión. El uso de $ en la fórmula fija el total de alumnos, asegurando que el cálculo sea correcto aunque la lista de clase cambie.</li>\n</ul>\n<h3 class=\"code-line has-line-data\" data-line-start=\"14\" data-line-end=\"15\"><a id=\"Vista_previa_del_Instrumento_de_Evaluacin_14\"></a>📸 Vista previa del Instrumento de Evaluación:</h3>\n<p class=\"has-line-data\" data-line-start=\"15\" data-line-end=\"16\"><em>(A continuación, se muestra la estructura visual de la matriz de evaluación y los indicadores que debe observar el profesorado):</em></p>\n<p class=\"has-line-data\" data-line-start=\"15\" data-line-end=\"16\"><em><img src=\"{{context_path}}/content/resources/mceclip0.png\" /></em></p>\n<p class=\"has-line-data\" data-line-start=\"15\" data-line-end=\"16\"><em></em><br /></p>\n<hr />\n<h2 class=\"code-line has-line-data\" data-line-start=\"2\" data-line-end=\"3\"><a id=\"72_Instrumento_del_Alumnado_Diana_Interactiva_Lucidspark_2\"></a>🎯 7.2. Instrumento del Alumnado: Diana Interactiva (Lucidspark)</h2>\n<p class=\"has-line-data\" data-line-start=\"4\" data-line-end=\"5\">Fomentamos la autoevaluación y la metacognición desde los 3 años mediante un entorno visual y táctil en la pizarra digital o tablet.</p>\n<ul>\n<li class=\"has-line-data\" data-line-start=\"7\" data-line-end=\"9\"><strong>Adaptación DUA y Privacidad:</strong> Se aplica el “bloqueo de objetos” en Lucidspark. Los niños solo pueden mover su avatar de animal (protegiendo su identidad real), evitando que borren el fondo por error, facilitando la experiencia a alumnos con dificultades motrices como Leo o barreras lingüísticas como Amira. La diana utiliza iconos claros y divertidos (Salud, <br />Cuidado del Robot y Trabajo en Equipo) para que niños que no leen entiendan las variables.</li>\n<li><strong>Funcionamiento: </strong>Los alumnos arrastrarán su avatar (un gomet digital) hacia el círculo concéntrico que mejor represente su percepción de logro. El centro (la estrella) representa el máximo éxito. Esta mecánica facilita la accesibilidad cognitiva y motriz para Leo y Amira. Los datos obtenidos no buscan una calificación, sino iniciar un diálogo reflexivo (feedback cualitativo) con el grupo sobre la importancia de aspectos actitudinales y de salud digital (ej. los descansos visuales).</li>\n</ul>\n<hr />\n<h2 class=\"code-line has-line-data\" data-line-start=\"11\" data-line-end=\"12\"><a id=\"73_Gua_de_Reutilizacin_Cmo_evaluar_a_tu_alumnado_con_este_eXeLearning_11\"></a>👩‍🏫 7.3. Guía de Reutilización: ¿Cómo evaluar a tu alumnado con este eXeLearning?</h2>\n<p class=\"has-line-data\" data-line-start=\"13\" data-line-end=\"14\">Si eres el docente que va a reutilizar esta Situación de Aprendizaje, sigue estos pasos para realizar el registro individual de cada alumno de forma eficiente:</p>\n<ol>\n<li class=\"has-line-data\" data-line-start=\"15\" data-line-end=\"16\"><strong>Preparación del registro individual (Antes de empezar):</strong> Haz clic en el enlace de Google Sheets provisto arriba y selecciona <em>Archivo &gt; Hacer una copia</em>. Esto creará una versión privada en tu Google Drive donde podrás sustituir los nombres de los alumnos por los de los alumnos de tu propia clase.</li>\n<li class=\"has-line-data\" data-line-start=\"16\" data-line-end=\"17\"><strong>Registro durante la sesión (Evaluación continua):</strong> Mientras los alumnos juegan por parejas en el suelo con el Bee-Bot, abre la hoja de cálculo desde una tablet o móvil. Solo tienes que marcar con una “X” o un “SÍ” si el alumno cumple el indicador (por ejemplo, si realiza la pausa de parpadeo visual o si borra la memoria del robot). La hoja calculará automáticamente el porcentaje de logro de cada niño y coloreará los éxitos en verde.</li>\n<li class=\"has-line-data\" data-line-start=\"17\" data-line-end=\"18\"><strong>Captura de Evidencias y Cierre (Registro del Portafolio):</strong> Al finalizar la última misión, haz una captura de pantalla del lienzo de Lucidspark con la diana rellenada por tus alumnos. Guarda esa imagen junto con el PDF de la lista de cotejo en una carpeta de Google Drive dedicada a tu grupo.</li>\n<li class=\"has-line-data\" data-line-start=\"18\" data-line-end=\"19\"><strong>Comunicación familiar:</strong> Sube la captura de la diana de autoevaluación y una foto anónima del equipo programando a tu plataforma de comunicación oficial (como <strong>iPasen</strong> o la que use tu centro) para informar a las familias del progreso en salud digital de sus hijos.</li>\n</ol>\n<p><img src=\"{{context_path}}/content/resources/mceclip1.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779919801711-mokt3eclb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Créditos y Descarga</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Créditos y Descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779919801711-mokt3eclb</odePageId>
+      <odeBlockId>block-1779919845039-ual4z3jiz</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779919801711-mokt3eclb</odePageId>
+          <odeBlockId>block-1779919845039-ual4z3jiz</odeBlockId>
+          <odeIdeviceId>idevice-1779919845038-15nkjw4el</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 class="code-line has-line-data" data-line-start="0" data-line-end="1"><a id="8_Crditos_Autora_y_Descarga_Editable_0"></a>8. Créditos, Autoría y Descarga Editable</h1>
+<p class="has-line-data" data-line-start="2" data-line-end="3">Este recurso educativo abierto (REA) ha sido diseñado como producto final para la acreditación del nivel B2 en Competencia Digital Docente. Su objetivo es servir de inspiración y base metodológica para cualquier aula de Educación Infantil que desee iniciarse en el pensamiento computacional y la salud digital.</p>
+<hr />
+<h2 class="code-line has-line-data" data-line-start="6" data-line-end="7"><a id="Autora_y_Datos_del_Proyecto_6"></a>👩‍🏫 Autoría y Datos del Proyecto</h2>
+<ul>
+<li class="has-line-data" data-line-start="7" data-line-end="8"><strong>Autora:</strong> María Esmeralda Verdejo Márquez.</li>
+<li class="has-line-data" data-line-start="9" data-line-end="10"><strong>Situación de Aprendizaje:</strong> “La Granja Saludable de Bee-Bot”.</li>
+<li class="has-line-data" data-line-start="10" data-line-end="11"><strong>Destinatarios:</strong> Alumnado de Educación Infantil (3 años), adaptable a toda la etapa.</li>
+<li class="has-line-data" data-line-start="11" data-line-end="13"><strong>Descripción:</strong> Propuesta didáctica inclusiva (DUA) que combina la robótica educativa con la adquisición de hábitos de vida saludables, ergonomía, pausas visuales y seguridad digital desde la primera infancia.</li>
+</ul>
+<hr />
+<h2 class="code-line has-line-data" data-line-start="15" data-line-end="16"><a id="Licencia_de_Uso_15"></a>🪪 Licencia de Uso</h2>
+<p class="has-line-data" data-line-start="16" data-line-end="17">Este material se publica bajo una licencia <strong>Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)</strong>.</p>
+<ul>
+<li class="has-line-data" data-line-start="18" data-line-end="19"><strong>Reconocimiento (BY):</strong> Debe garantizarse la autoría del documento original de forma explícita.</li>
+<li class="has-line-data" data-line-start="19" data-line-end="20"><strong>No Comercial (NC):</strong> No se permite el uso de este material ni de sus derivados con fines comerciales o lucrativos.</li>
+<li class="has-line-data" data-line-start="20" data-line-end="22"><strong>Compartir Igual (SA):</strong> Si alteras, transformas o creas una obra derivada a partir de este mapa, debes distribuir la obra resultante bajo una licencia idéntica a esta.</li>
+</ul>
+<hr />
+<h2 class="code-line has-line-data" data-line-start="24" data-line-end="25"><a id="Descarga_del_Archivo_Fuente_Editable_24"></a>📥 Descarga del Archivo Fuente Editable</h2>
+<p class="has-line-data" data-line-start="25" data-line-end="26">Para favorecer la cultura del código abierto y facilitar la reutilización por parte de la comunidad educativa, comparto el archivo de origen para que puedas modificar las misiones, añadir tus propios pictogramas o adaptarlo a tus alumnos.</p>
+<ul>
+<li class="has-line-data" data-line-start="27" data-line-end="29">📥 <strong><a href="https://github.com/esmeraldaverdejo/SdA-Granja-BeeBot/raw/main/SdA_Granja_BeeBot.elp">DESCARGAR ARCHIVO EDITABLE (.ELP) - LA GRANJA SALUDABLE DE BEE-BOT</a></strong> <em>(Nota para la entrega: Asegúrate de subir tu archivo .elp a tu Drive o GitHub y sustituir este enlace de muestra por tu enlace de descarga directa real).</em></li>
+</ul>
+<hr />
+<p class="has-line-data" data-line-start="30" data-line-end="31"><em>Gracias por contribuir a un ecosistema educativo más abierto, seguro y saludable.</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779919845038-15nkjw4el","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 class=\"code-line has-line-data\" data-line-start=\"0\" data-line-end=\"1\"><a id=\"8_Crditos_Autora_y_Descarga_Editable_0\"></a>8. Créditos, Autoría y Descarga Editable</h1>\n<p class=\"has-line-data\" data-line-start=\"2\" data-line-end=\"3\">Este recurso educativo abierto (REA) ha sido diseñado como producto final para la acreditación del nivel B2 en Competencia Digital Docente. Su objetivo es servir de inspiración y base metodológica para cualquier aula de Educación Infantil que desee iniciarse en el pensamiento computacional y la salud digital.</p>\n<hr />\n<h2 class=\"code-line has-line-data\" data-line-start=\"6\" data-line-end=\"7\"><a id=\"Autora_y_Datos_del_Proyecto_6\"></a>👩‍🏫 Autoría y Datos del Proyecto</h2>\n<ul>\n<li class=\"has-line-data\" data-line-start=\"7\" data-line-end=\"8\"><strong>Autora:</strong> María Esmeralda Verdejo Márquez.</li>\n<li class=\"has-line-data\" data-line-start=\"9\" data-line-end=\"10\"><strong>Situación de Aprendizaje:</strong> “La Granja Saludable de Bee-Bot”.</li>\n<li class=\"has-line-data\" data-line-start=\"10\" data-line-end=\"11\"><strong>Destinatarios:</strong> Alumnado de Educación Infantil (3 años), adaptable a toda la etapa.</li>\n<li class=\"has-line-data\" data-line-start=\"11\" data-line-end=\"13\"><strong>Descripción:</strong> Propuesta didáctica inclusiva (DUA) que combina la robótica educativa con la adquisición de hábitos de vida saludables, ergonomía, pausas visuales y seguridad digital desde la primera infancia.</li>\n</ul>\n<hr />\n<h2 class=\"code-line has-line-data\" data-line-start=\"15\" data-line-end=\"16\"><a id=\"Licencia_de_Uso_15\"></a>🪪 Licencia de Uso</h2>\n<p class=\"has-line-data\" data-line-start=\"16\" data-line-end=\"17\">Este material se publica bajo una licencia <strong>Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)</strong>.</p>\n<ul>\n<li class=\"has-line-data\" data-line-start=\"18\" data-line-end=\"19\"><strong>Reconocimiento (BY):</strong> Debe garantizarse la autoría del documento original de forma explícita.</li>\n<li class=\"has-line-data\" data-line-start=\"19\" data-line-end=\"20\"><strong>No Comercial (NC):</strong> No se permite el uso de este material ni de sus derivados con fines comerciales o lucrativos.</li>\n<li class=\"has-line-data\" data-line-start=\"20\" data-line-end=\"22\"><strong>Compartir Igual (SA):</strong> Si alteras, transformas o creas una obra derivada a partir de este mapa, debes distribuir la obra resultante bajo una licencia idéntica a esta.</li>\n</ul>\n<hr />\n<h2 class=\"code-line has-line-data\" data-line-start=\"24\" data-line-end=\"25\"><a id=\"Descarga_del_Archivo_Fuente_Editable_24\"></a>📥 Descarga del Archivo Fuente Editable</h2>\n<p class=\"has-line-data\" data-line-start=\"25\" data-line-end=\"26\">Para favorecer la cultura del código abierto y facilitar la reutilización por parte de la comunidad educativa, comparto el archivo de origen para que puedas modificar las misiones, añadir tus propios pictogramas o adaptarlo a tus alumnos.</p>\n<ul>\n<li class=\"has-line-data\" data-line-start=\"27\" data-line-end=\"29\">📥 <strong><a href=\"https://github.com/esmeraldaverdejo/SdA-Granja-BeeBot/raw/main/SdA_Granja_BeeBot.elp\">DESCARGAR ARCHIVO EDITABLE (.ELP) - LA GRANJA SALUDABLE DE BEE-BOT</a></strong> <em>(Nota para la entrega: Asegúrate de subir tu archivo .elp a tu Drive o GitHub y sustituir este enlace de muestra por tu enlace de descarga directa real).</em></li>\n</ul>\n<hr />\n<p class=\"has-line-data\" data-line-start=\"30\" data-line-end=\"31\"><em>Gracias por contribuir a un ecosistema educativo más abierto, seguro y saludable.</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
